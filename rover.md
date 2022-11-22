@@ -26,7 +26,7 @@ for the Netherlands Organisation for Applied Scientific Research (TNO).
 * Use camera sensor data to locate the Rover underneath the real car
   - Detect the real car's wheels using OpenCV
   - **Determine Rover's position based the wheels' locations with respect to the camera center**
-* Design a PID controller for the thrust and steering wheel motors
+* **Design a PID controller for the thrust and steering wheel motors**
   - **Use the Rover's position data over time with respect to the reference position as input to the PID controller**
   - **Output the new steering angle and thust intensity**
   - **Test and adjust the controller to acquire the correct PID constant values**
