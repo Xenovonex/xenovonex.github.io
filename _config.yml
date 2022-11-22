@@ -5,3 +5,4 @@ logo: docs/assets/img/logo.png
 title: Rutger Dirks Portfolio
 author: Rutger Dirks
 description: An overview of the projects I contributed to.
+permalink: /:categories/:year/:month/:day/:title:output_ext
