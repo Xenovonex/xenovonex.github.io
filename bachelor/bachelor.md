@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Bachelor
 ---
 <link rel="stylesheet" href="{{ site.baseurl }}/stylesheets/core.css" media="screen">
