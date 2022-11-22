@@ -5,4 +5,4 @@
 [<img src="/assets/img/rover_av.PNG" alt="roverav" width="200"/>](./bachelor.md)
 
 ## [Master Vehicle Engineering Projects](./master.md)
-[<img src="/assets/img/ogm_predictions.gif" alt="ogmpred" width="200"/>](./master.md)
+[<img src="/assets/img/rover_av.PNG" alt="ogmpred" width="200"/>](./master.md)
