@@ -4,6 +4,6 @@ plugins:
 logo: /assets/img/portret.jpg
 title: Rutger Dirks
 author: Rutger Dirks
-description: <a href="https://www.linkedin.com/in/rutger-f-dirks/ " target="_blank">LinkedIn tab</a>
+description: <a href="https://www.linkedin.com/in/rutger-f-dirks/" target="_blank">LinkedIn</a>
 Engineer in Automation and Robotics | Portfolio of my projects
 permalink: /:categories/:year/:month/:day/:title:output_ext
