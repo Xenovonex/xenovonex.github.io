@@ -42,7 +42,7 @@ The Rover succeeded to follow a real car at 10 km/h on a trajectory with both st
 
 Video of the Rover test:
 <video width="320" height="240" controls>
-  <source src="rover_demonstration_LQ.mp4" type="video/mp4">
+  <source src="./assets/img/rover_demonstration_LQ.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
