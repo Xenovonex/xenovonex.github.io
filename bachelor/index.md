@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Bachelor
-permalink: /bachelor/
 ---
 
 # Bachelor Projects
