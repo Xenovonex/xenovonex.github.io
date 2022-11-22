@@ -1,4 +1,4 @@
 # Overview
 * [About](./about.md)
-* [Mechanical Engineering Bachelor Projects](./bachelor/bachelor.md)
-* [Vehicle Engineering Master Projects](./master/master.md)
+* [Bachelor Mechanical Engineering Projects](./bachelor/bachelor.md)
+* [Master Vehicle Engineering Projects](./master/master.md)
