@@ -1,6 +1,8 @@
+---
 layout: page
-title: "About"
-permalink: /about
+title: About
+permalink: /about/
+---
 
 # About Page Test
- Hi Wereld
+Hi Wereld
