@@ -34,7 +34,7 @@ for the Netherlands Organisation for Applied Scientific Research (TNO).
 * **Simulate and visualize the Rover's camera and controller modules to perform the task in MATLAB**
 * **Test the Rover in a real world situation**
 
-Bolded: My main contributions to the project
+**Bolded:** My main contributions to the project
 
 ## Results
 The simulation of the Rover shows it succeeds to stably follow the car provided the correct PID constants.
