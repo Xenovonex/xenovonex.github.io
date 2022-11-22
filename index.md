@@ -1,4 +1,3 @@
-# Overview
 # [About](./about.md)
 <img src="/assets/img/about_banner_wide.png" alt="about_banner" width="200"/>
   
