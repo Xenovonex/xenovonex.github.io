@@ -1,5 +1,8 @@
+
+---
 layout: page
 title: "Contact"
-permalink: /about/contact
+permalink: /contact/
+---
 
 # Test About Contact Page
