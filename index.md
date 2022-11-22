@@ -1,9 +1,9 @@
 # PAGES
 
 ## Overview
-* [About](./about.html)
-* [Mechanical Engineering Bachelor Projects](./bachelor.html)
-* [Vehicle Engineering Master Projects](.master.html)
+* [About](./about/)
+* [Mechanical Engineering Bachelor Projects](./bachelor/)
+* [Vehicle Engineering Master Projects](.master/)
 
 ## More
 
