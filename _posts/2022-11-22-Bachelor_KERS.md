@@ -1,5 +1,5 @@
 ---
-title: "Bachelor Project: Kinematic Energy Recovery System"
+title: "Bachelor_KERS"
 date: 2022-22-11
 ---
 
