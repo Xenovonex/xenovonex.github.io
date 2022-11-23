@@ -27,12 +27,13 @@ Design the sorting machine according to the following criteria:
 * Uses Arduinos to process sensor data, make decisions, and control the motors
 * Design a Finite-State Machine (FSM) schematic for the solution
 
-A sorting machine frame is built using K'nex and lasercut material. The frame contains a drop off point for the blocks to enter the sorting machine and five storage areas. 
-Four storages areas for the different colors, and the fifth for large-sized blocks. 
-Two conveyour belts are built using fabric, positioned perpendicular to each other.
+A sorting machine frame is built using K'nex and lasercut material. The frame contains a drop off point for the blocks to enter the sorting machine and five storage areas. Four storages areas for the different colors, and the fifth for large-sized blocks. Two conveyour belts are built using fabric, positioned perpendicular to each other.
+
 Each conveyor belt can be actuated using a DC-motor. The velocity is measured with a self-made tachometer using a laser, laser sensor, and a perforated disk.
 The conveyor belts are kept at a constant speed using a PID-controller.
+
 Blocks of different colors (Red, Green, Blue, Yellow) and different sizes (one block or two stacked blocks) will be dropped on a conveyer belt. An ultrasonic sensor will measure the height of the block and a color sensor will measure the color. Depending on the color, small sized blocks will be sorted in one of four storage areas. Ultrasonic sensors will detect if a block is at the right position. The servo-motors will push it in the right storage area. If a block is large-sized, it will end up in the fifth 'remaining' block storage area at the end of the conveyor belt. This process is comparable to separating different kinds of waste. 
+
 A Finite-State Machine (FSM) schematic is designed to capture every state the sorting machine can be in and select the appropriate actions. This is programmed on two connected Arduinos that also receive the sensor data and control the motors.
 
 ## Result
