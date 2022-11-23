@@ -1,5 +1,5 @@
 # Rover: The Autonomous Car
-### Date of project: 1 June 2018 \
+### Date of project: 1 June 2018
 <img src="/assets/img/rover_av.PNG" alt="roverav" width="300"/>
 
 ## Goal
