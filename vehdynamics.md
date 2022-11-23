@@ -3,4 +3,4 @@ layout: default
 title: Vehicle Dynamics
 ---
 
-[Back to Master Bachelor projects](./master.md)
+[Back to Master projects](./master.md)
