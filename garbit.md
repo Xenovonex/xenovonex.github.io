@@ -1,6 +1,12 @@
+---
+layout: default
+title: Garbit
+---
 
-# Garbit
-
+[Back to Bachelor projects](./bachelor.md)
+# Garbit: The Brick Sorting Machine
+### Date of project: 7 April 2017
+<img src="/assets/img/garbit.PNG" alt="garbit_project" width="300"/>
 
 
 
