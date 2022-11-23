@@ -13,13 +13,14 @@ Design and program a Radio-Controlled toy car, called the Rover, to follow and d
 for the Netherlands Organisation for Applied Scientific Research (TNO).
 
 ## Team
-* J. van der Blonk
-* J. Linssen
-* J. van der Sluis
-* J. van der Vlugt
-* R. Dirks
-* J. Fransman (supervisor)
-* J. Sijs (supervisor)
+J. van der Blonk,
+J. Linssen,
+J. van der Sluis,
+J. van der Vlugt,
+R. Dirks,
+
+J. Fransman (supervisor),
+J. Sijs (supervisor)
 
 ## Process
 * Design and adjust the Rover according to the following criteria:
