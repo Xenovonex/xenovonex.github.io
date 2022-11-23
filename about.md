@@ -2,7 +2,7 @@
 layout: default
 title: About
 ---
-
+[Back to Home](./index.md)
 # About
 Robots and Autonomous Vehicles are the future. It can solve the work force shortage problems, increase safety and efficiency of many processes, and can support people in their jobs. 
 I am specialized to model autonomous machines and to implement perception technology for detection, classification, prediction, and decision making purposes. For my Bachelor's thesis, together in a team, we developed a small self-driving RC-vehicle. 
