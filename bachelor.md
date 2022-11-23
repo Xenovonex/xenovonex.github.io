@@ -3,6 +3,7 @@ layout: default
 title: Bachelor
 ---
 
+[Back to Home](./index.md)
 # Bachelor Projects
 
 ## [Rover: The Autonomous Vehicle](./rover.md)
