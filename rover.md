@@ -1,5 +1,6 @@
 # Rover: The Autonomous Car
 Date of project: 1 June 2018
+<img src="/assets/img/rover_av.PNG" alt="roverav" width="300"/>
 
 ## Goal
 Design and program a Radio-Controlled toy car, called the Rover, to follow and drive underneath a real vehicle 
@@ -11,7 +12,6 @@ for the Netherlands Organisation for Applied Scientific Research (TNO).
 * J. van der Sluis
 * J. van der Vlugt
 * R. Dirks
-
 * J. Fransman (supervisor)
 * J. Sijs (supervisor)
 
@@ -30,20 +30,37 @@ for the Netherlands Organisation for Applied Scientific Research (TNO).
   - **Use the Rover's position data over time with respect to the reference position as input to the PID controller**
   - **Output the new steering angle and thust intensity**
   - **Test and adjust the controller to acquire the correct PID constant values**
-* Combine the Sensor and Controller modules and connect the controller output to the PixHawk microcontroller using a Raspberry PI with Robot Operating System (ROS). 
-* **Simulate and visualize the Rover's camera and controller modules to perform the task in MATLAB**
+* Combine the autonomous vehicle pipeline modules on a Raspberry Pi
+  - Create publishers and subscribers in Robot Operating System (ROS) for communcation between Sensor and Controller modules 
+  - Connect the controller output to the PixHawk microcontroller
+* **Simulate and visualize the Rover**
+  - **Simulate the camera sensor capturing te vehicle wheels in MATLAB** 
+  - **Simulate the Rover and the Vehicle in MATLAB using the bicycle model**
+  - **Simulate the PID controller module to perform the goal task in MATLAB**
+
 * **Test the Rover in a real world situation**
 
 **Bolded:** My main contributions to the project
 
 ## Results
-The simulation of the Rover shows it succeeds to stably follow the car provided the correct PID constants.
-The Rover succeeded to follow a real car at 10 km/h on a trajectory with both straight parts and curves.
+The simulation of the Rover shows it succeeds to recognize the wheels of the real vehicle and to stably follow the the real vehicle provided it uses the correct PID constants.
 
+<img src="/assets/img/wheel_detection.PNG" alt="roverav" width="300"/>
+
+The Rover succeeded to follow a real vehicle at 10-20 km/h on a trajectory with both straight parts and curves.
 Video of the Rover test:
-<video width="320" height="240" controls>
+<video width="640" height="480" controls>
   <source src="./assets/img/rover_demonstration_LQ.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 ## Skills
+* Teamwork and communication
+* Time management
+* MATLAB
+* Python
+* Robot Operating System (ROS)
+* OpenCV
+* Control Theory
+* Dynamic Simulations
+* Product design and testing
