@@ -42,7 +42,7 @@ The video below shows the final result of this project. It shows how the blocks 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M2jEXQdBnBI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-## Skils
+## Skills
 * Teamwork
 * Mechatronics
 * Arduino
