@@ -6,3 +6,6 @@
 
 ## [Master Vehicle Engineering Projects](./master.md)
 [<img src="/assets/img/motion_prediction.png" alt="ogmpred" width="200"/>](./master.md)
+
+## [Miscellaneous Projects](./miscellaneous.md)
+[<img src="/assets/img/motion_prediction.png" alt="ogmpred" width="200"/>](./miscellaneous.md)
