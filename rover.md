@@ -1,5 +1,5 @@
 # Rover: The Autonomous Car
-Date of project: 1 June 2018
+Date of project: 1 June 2018 \
 <img src="/assets/img/rover_av.PNG" alt="roverav" width="300"/>
 
 ## Goal
@@ -45,6 +45,7 @@ for the Netherlands Organisation for Applied Scientific Research (TNO).
 ## Results
 The simulation of the Rover shows it succeeds to recognize the wheels of the real vehicle and to stably follow the the real vehicle provided it uses the correct PID constants.
 
+Below: Image of the Rover's camera sensor detecting the real vehicle's two front wheels. Blue squares: Area between wheels. Green lines: Reference positions of wheels to center the Rover underneath vehicle. Red lines: Actual position of the wheels.
 <img src="/assets/img/wheel_detection.PNG" alt="roverav" width="300"/>
 
 The Rover succeeded to follow a real vehicle at 10-20 km/h on a trajectory with both straight parts and curves.
