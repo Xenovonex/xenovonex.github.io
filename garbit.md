@@ -27,10 +27,24 @@ Design the sorting machine according to the following criteria:
 * Uses Arduinos to process sensor data, make decisions, and control the motors
 * Design a Finite-State Machine (FSM) schematic for the solution
 
-Blocks of different colors will be placed on a conveyer belt. A distance sensor will measure the height of the block. If the block is too high it will be thrown away by an actuator. Otherwise (so when the block is of the standard height), the block will continue over the belt. This is similar to separating metal from the other waste with a magnet in a real garbage sorting center. After this the block will roll on another belt. Here the color of the block will be decided with a color sensor. Based on this measurement the block will later be placed in a different box with an actuator. This is comparable to separating different kinds of waste.
+A sorting machine frame is built using K'nex and lasercut material. The frame contains a drop off point for the blocks to enter the sorting machine and five storage areas. 
+Four storages areas for the different colors, and the fifth for large-sized blocks. 
+Two conveyour belts are built using fabric, positioned perpendicular to each other.
+Each conveyor belt can be actuated using a DC-motor. The velocity is measured with a self-made tachometer using a laser, laser sensor, and a perforated disk.
+The conveyor belts are kept at a constant speed using a PID-controller.
+Blocks of different colors (Red, Green, Blue, Yellow) and different sizes (one block or two stacked blocks) will be dropped on a conveyer belt. An ultrasonic sensor will measure the height of the block and a color sensor will measure the color. Depending on the color, small sized blocks will be sorted in one of four storage areas. Ultrasonic sensors will detect if a block is at the right position. The servo-motors will push it in the right storage area. If a block is large-sized, it will end up in the fifth 'remaining' block storage area at the end of the conveyor belt. This process is comparable to separating different kinds of waste. 
+A Finite-State Machine (FSM) schematic is designed to capture every state the sorting machine can be in and select the appropriate actions. This is programmed on two connected Arduinos that also receive the sensor data and control the motors.
 
 ## Result
+
+The video below shows the final result of this project. It shows how the blocks get dropped onto the conveyor belt, how the conveyor belts are actuated at a constant speed, and how the different blocks are sorted.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M2jEXQdBnBI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Skils
+* Teamwork
+* Mechatronics
+* Arduino
+* C programming
+* Finite-State Machine design
+* Sensors and motors
