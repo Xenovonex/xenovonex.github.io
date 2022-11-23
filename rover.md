@@ -49,11 +49,12 @@ Below: Image of the Rover's camera sensor detecting the real vehicle's two front
 <img src="/assets/img/wheel_detection.PNG" alt="roverav" width="300"/>
 
 The Rover succeeded to follow a real vehicle at 10-20 km/h on a trajectory with both straight parts and curves.
+
 Video of the Rover test:
 <video width="640" height="480" controls>
   <source src="./assets/img/rover_demonstration_LQ.mp4" type="video/mp4">
   Your browser does not support the video tag.
-</video>
+</video> \
 
 ## Skills
 * Teamwork and communication
