@@ -50,7 +50,7 @@ J. Sijs (supervisor)
 **Bolded:** My main contributions to the project 
 
 Below: Image of the PixHawk module, the Raspberry Pi, and other modules (motor controller, WIFI module, GPS) on the Rover. \
-<img src="/assets/img/rover_tech.jpg" alt="rovertech" style="transform:rotate(90deg);" width="300"/>
+<img src="/assets/img/rover_tech.jpg" alt="rovertech" style="transform:rotate(270deg);" width="200"/>
 
 ## Results
 The simulation of the Rover shows it succeeds to recognize the wheels of the real vehicle and to stably follow the the real vehicle provided it uses the correct PID constants.
