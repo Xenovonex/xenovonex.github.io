@@ -7,7 +7,7 @@ title: CNC
 # The Engraving CNC-machine
 ### Date of project: 26 September 2016
 <img src="/assets/img/CNC-machine_geheel_eind.png" alt="cnc-machine" width="400"/>
-A SolidWorks model of the CNC-machine
+A SolidWorks model of the CNC-machine.
 
 ## Goal
 Design and build a CNC-machine that can engrave a triangle in a sheet of PMMA plastic.
@@ -52,7 +52,6 @@ A SolidWorks model of the CNC-machine is designed to perform FEM analysis on in 
 <img src="/assets/img/CNC-machine_comsol.png" alt="cnc-comsol" width="400"/>
 
 Below is a video of the CNC-machine engraving a triangle in PMMA. The engraving speed is 20 seconds for the whole triangle.
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4YJb8-Kvrg8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Skills
