@@ -14,7 +14,10 @@ title: Bachelor
 7 April 2017 \
 [<img src="/assets/img/garbit.PNG" alt="garbit_project" width="200"/>](./garbit.md)
 
-
 ## [The Engraving CNC-machine](./cnc.md)
 26 September 2016 \
 [<img src="/assets/img/CNC-machine_geheel_eind.png" alt="cnc_project" width="200"/>](./cnc.md)
+
+## [The Ropepump](./ropepump.md)
+3 April 2016 \
+[<img src="/assets/img/Touwpomp1.png" alt="touwpomp_project" width="200"/>](./ropepump.md)
