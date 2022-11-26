@@ -65,7 +65,7 @@ The pump must comply to the following demands and must be designed to meet as ma
 5. The pump is assembled and tested, some minor changes are made to the design and assembly methods. The pump is ready to execute its goal. 
 
 Before (left) and After (right) first and last SolidWorks design iterations.\
-<img src="/assets/img/Touwpomp.PNG" alt="touwpomp_project1" style="width:400"/>
+<img src="/assets/img/Touwpomp.png" alt="touwpomp_project1" style="width:400"/>
 
 
 ## Results
