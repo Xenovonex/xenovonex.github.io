@@ -59,10 +59,14 @@ The pump must comply to the following demands and must be designed to meet as ma
 5. The pump is assembled and tested, some minor changes are made to the design and assembly methods. The pump is ready to execute its goal. 
 
 Before and After first and last SolidWorks design iterations.\
-Before:
-<img src="/assets/img/Touwpomp0.jpg" alt="touwpomp_project1" width="200"/>\
-After:
-<img src="/assets/img/Touwpomp2.jpg" alt="touwpomp_project2" width="200"/>
+ <div class="row">
+  <div class="column">
+    <img src="/assets/img/Touwpomp0.jpg" alt="touwpomp_project1" style="width:100%"/>
+  </div>
+  <div class="column">
+    <img src="/assets/img/Touwpomp2.jpg" alt="touwpomp_project2" style="width:100%"/>
+  </div>
+</div> 
 
 ## Results
 The pump succeeds to fill up the 130L box with water within 20 seconds as can be seen in the video below. In a constest against more than 100 other pumps, this pump obtained the 3rd price for having the 3rd highest flow rate, and it obtained the 1st price for being the best pump of the rope pump category.
