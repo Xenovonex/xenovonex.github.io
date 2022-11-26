@@ -72,3 +72,12 @@ Before and After first and last SolidWorks design iterations.
 The pump succeeds to fill up the 130L box with water within 20 seconds as can be seen in the video below. In a constest against more than 100 other pumps, this pump obtained the 3rd price for having the 3rd highest flow rate, and it obtained the 1st price for being the best pump of the rope pump category.
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/-KpJuhg08SY" title="De touwpomp van WB11 2015-2016" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Skills
+* Teamwork
+* Mechanic Design
+* Mechanics
+* SolidWorks
+* Assembly work
+* Fluid Dynamics
+* Safety
