@@ -6,7 +6,7 @@ title: CNC
 [Back to Bachelor projects](./bachelor.md)
 # The Engraving CNC-machine
 ### Date of project: 26 September 2016
-<img src="/assets/img/CNC-machine_geheel_eind.png" alt="cnc-machine" width="400"/>
+<img src="/assets/img/CNC-machine_geheel_eind.png" alt="cnc-machine" width="400"/>\
 A SolidWorks model of the CNC-machine.
 
 ## Goal
