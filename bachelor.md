@@ -15,6 +15,6 @@ title: Bachelor
 [<img src="/assets/img/garbit.PNG" alt="garbit_project" width="200"/>](./garbit.md)
 
 
-## [The engraving CNC-machine](./cnc.md)
+## [The Engraving CNC-machine](./cnc.md)
 26 September 2016 \
 [<img src="/assets/img/CNC-machine_geheel_eind.png" alt="cnc_project" width="200"/>](./cnc.md)
