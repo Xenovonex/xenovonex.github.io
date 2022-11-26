@@ -58,13 +58,13 @@ The pump must comply to the following demands and must be designed to meet as ma
 4. A list of parts, assembly methods, and costs is made. The pump will cost more than €100, but we have found [Frissebronnen.nl](Frissebronnen.nl) as sponsor to donate the remaining costs. The parts are ordered.
 5. The pump is assembled and tested, some minor changes are made to the design and assembly methods. The pump is ready to execute its goal. 
 
-Before and After first and last SolidWorks design iterations.\
+Before and After first and last SolidWorks design iterations.
  <div class="row">
   <div class="column">
-    <img src="/assets/img/Touwpomp0.jpg" alt="touwpomp_project1" style="width:15%"/>
+    <img src="/assets/img/Touwpomp0.jpg" alt="touwpomp_project1" style="width:20%"/>
   </div>
   <div class="column">
-    <img src="/assets/img/Touwpomp2.jpg" alt="touwpomp_project2" style="width:20%"/>
+    <img src="/assets/img/Touwpomp2.jpg" alt="touwpomp_project2" style="width:18%"/>
   </div>
 </div> 
 
