@@ -10,7 +10,7 @@ title: Rope Pump
 A SolidWorks model of the ropepump.
 
 ## Goal
-Design and build a waterpump that can pump up 130L of water to a height of 0.75m within 5 minutes.
+Design and build a bicycle powered waterpump that can pump up 130L of water to a height of 0.75m within 5 minutes.
 
 ## Team
 S. Bonhof, E. van Leeuwen, J. Linssen, S. Rademaker, J. van der Sluis, I. van Veen, Y. Verspaget, R. Dirks
@@ -39,5 +39,14 @@ The pump must comply to the following demands and must be designed to meet as ma
 #### Additional wishes
 * The pump must be original and innovative.
 
+
+## Process
+1. A design process is initiated to make choices for the pump design. Based on five properties - pump type, bicycle-pump tranmission type, waterproofness of connection types, height transport, dissasembly method - the following design choices were made that were estimated to best meet the design criteria. 
+  - A Rope pump is chosen because of its simplicity, scaling capabilities and following high flow rates.
+  - A chain is used between the bicycle and pump to transmit the power.
+  - A form-fitting connections for the water medium are used to prevent water leakage.
+  - PVC tubes are used as water medium to transport/pump water to 0.75m high.
+  - For easy disassembling of the pump, form-fitted PVC parts for the water medium and bolts and wing nuts are used for constructing the frame.
+2. 
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/-KpJuhg08SY" title="De touwpomp van WB11 2015-2016" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
