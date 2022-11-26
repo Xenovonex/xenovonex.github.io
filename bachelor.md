@@ -13,3 +13,8 @@ title: Bachelor
 ## [Garbit: The Brick Sorting Machine](./garbit.md)
 7 April 2017 \
 [<img src="/assets/img/garbit.PNG" alt="garbit_project" width="200"/>](./garbit.md)
+
+
+## [The engraving CNC-machine](./cnc.md)
+7 April 2017 \
+[<img src="/assets/img/CNC-machine_doorsnede_eind.png" alt="cnc_project" width="200"/>](./cnc.md)
