@@ -9,7 +9,28 @@ title: Rope Pump
 <img src="/assets/img/Touwpomp1.jpg" alt="touwpomp_project" width="400"/>\
 A SolidWorks model of the ropepump.
 
+## Goal
+Design and build a waterpump that can pump up 130L of water to a height of 0.75m within 5 minutes.
 
+## Team
+S. Bonhof, E. van Leeuwen, J. Linssen, S. Rademaker, J. van der Sluis, I. van Veen, Y. Verspaget, R. Dirks
+
+## List of criteria for the pump
+The pump must comply to the following demands and must be designed to meet as many of the following wishes.
+
+### Physical demands
+* 
+### Functional demands
+
+### Operational demands
+
+### Production demands
+
+### Financial wishes
+
+### Functional wishes
+
+### Additional wishes
 
 
 
