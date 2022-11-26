@@ -49,7 +49,7 @@ To design the CNC-machine, the following design choices are made based on robust
 ## Results
 A SolidWorks model of the CNC-machine is designed to perform FEM analysis on in COMSOL and for laserprinting of the sheet metal. Based on the FEM analysis, the frame will have a maximum deflection of 6nm, which is an acceptable value for the purpose of engraving a triangle in PMMA. 
 
-Below an image of the FEM analysis of the Y-axis frame, which deflects at most 6nm. The colors represent deflection from 0nm (dark blue) to 6nm (dark red).
+Below an image of the FEM analysis of the Y-axis frame, which deflects at most 6nm. The colors represent deflection from 0nm (dark blue) to 6nm (dark red).\
 <img src="/assets/img/CNC-machine_comsol.png" alt="cnc-comsol" width="400"/>
 
 Below is a video of the CNC-machine engraving a triangle in PMMA. The engraving speed is 20 seconds for the whole triangle.
