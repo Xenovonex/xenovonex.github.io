@@ -58,11 +58,11 @@ The pump must comply to the following demands and must be designed to meet as ma
 4. A list of parts, assembly methods, and costs is made. The pump will cost more than €100, but we have found [Frissebronnen.nl](Frissebronnen.nl) as sponsor to donate the remaining costs. The parts are ordered.
 5. The pump is assembled and tested, some minor changes are made to the design and assembly methods. The pump is ready to execute its goal. 
 
-Before and After first and last SolidWorks design iterations.
+Before and After first and last SolidWorks design iterations.\
 Before:
 <img src="/assets/img/Touwpomp0.jpg" alt="touwpomp_project1" width="300"/>
 After:
-<img src="/assets/img/Touwpomp1.jpg" alt="touwpomp_project2" width="300"/>
+<img src="/assets/img/Touwpomp2.jpg" alt="touwpomp_project2" width="300"/>
 
 ## Results
 The pump succeeds to fill up the 130L box with water within 20 seconds as can be seen in the video below. In a constest against more than 100 other pumps, this pump obtained the 3rd price for having the 3rd highest flow rate, and it obtained the 1st price for being the best pump of the rope pump category.
