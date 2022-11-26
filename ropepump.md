@@ -64,7 +64,7 @@ Before and After first and last SolidWorks design iterations.
     <img src="/assets/img/Touwpomp0.jpg" alt="touwpomp_project1" style="width:20%"/>
   </div>
   <div class="column">
-    <img src="/assets/img/Touwpomp2.jpg" alt="touwpomp_project2" style="width:22%"/>
+    <img src="/assets/img/Touwpomp2.jpg" alt="touwpomp_project2" style="width:20%"/>
   </div>
 </div> 
 
