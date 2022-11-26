@@ -20,4 +20,4 @@ title: Bachelor
 
 ## [The Ropepump](./ropepump.md)
 3 April 2016 \
-[<img src="/assets/img/Touwpomp1.png" alt="touwpomp_project" width="200"/>](./ropepump.md)
+[<img src="/assets/img/Touwpomp1.jpg" alt="touwpomp_project" width="200"/>](./ropepump.md)
