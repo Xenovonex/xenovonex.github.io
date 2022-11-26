@@ -6,7 +6,7 @@ title: Rope Pump
 [Back to Bachelor projects](./bachelor.md)
 # The Ropepump
 ### Date of Project: 3 April 2016
-<img src="/assets/img/Touwpomp1.jpg" alt="touwpomp_project" width="200"/>\
+<img src="/assets/img/Touwpomp1.jpg" alt="touwpomp_project" width="400"/>\
 A SolidWorks model of the ropepump.
 
 
