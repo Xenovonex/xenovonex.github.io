@@ -16,5 +16,5 @@ title: Bachelor
 
 
 ## [The engraving CNC-machine](./cnc.md)
-7 April 2017 \
+26 September 2016 \
 [<img src="/assets/img/CNC-machine_geheel_eind.png" alt="cnc_project" width="200"/>](./cnc.md)
