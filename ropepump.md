@@ -47,6 +47,7 @@ The pump must comply to the following demands and must be designed to meet as ma
   - A form-fitting connections for the water medium are used to prevent water leakage.
   - PVC tubes are used as water medium to transport/pump water to 0.75m high.
   - For easy disassembling of the pump, form-fitted PVC parts for the water medium and bolts and wing nuts are used for constructing the frame.
-2. 
+2. Estimate the flow rate of a rope pump to base the design on. Formulas developed by [Smulders and Rijs (2006)](https://www.arrakis.nl/reports/060923_Ropepump_Smulders-Rijs_lr.pdf) are used to estimate the flow rate.
+  - 
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/-KpJuhg08SY" title="De touwpomp van WB11 2015-2016" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
