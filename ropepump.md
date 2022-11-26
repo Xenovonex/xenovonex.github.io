@@ -54,7 +54,7 @@ The pump must comply to the following demands and must be designed to meet as ma
   - PVC tubes are used as water medium to transport/pump water to 0.75m high.
   - For easy disassembling of the pump, form-fitted PVC parts for the water medium and bolts and wing nuts are used for constructing the frame.
 2. Estimate the flow rate of a rope pump to base the design on. Formulas developed by [Smulders and Rijs (2006)](https://www.arrakis.nl/reports/060923_Ropepump_Smulders-Rijs_lr.pdf) are used to estimate the flow rate.
-  - The pump flow rate is mainly dependent on: 
+  * The pump flow rate is mainly dependent on: 
     - The area of the rope pump tubes.
     - The downwards velocity of the water due to gravity.
     - The upwards velocity of the rope with disks attached to it that push up the water.
