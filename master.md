@@ -20,3 +20,7 @@ title: Master
 ## [MPC Controller for Collision Avoidance](./motionplanning.md)
 30 March 2020 \
 [<img src="/assets/img/Workspace.jpg" alt="workspace" width="300"/>](./motionplanning.md)
+
+## [Preventing Vehicle Rollover](./vehdynamics.md)
+7 April 2019 \
+[<img src="/assets/img/Anti_rollbar_simulink.png" alt="vehdyn" width="300"/>](./vehdynamics.md)
