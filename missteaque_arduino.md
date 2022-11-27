@@ -29,3 +29,9 @@ Below is Github code for the image-to-LED conversion and the Arduino code. Also,
   <source src="./assets/img/missteaque_vid_r.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+## Skills
+* Arduino
+* Mechatronics
+* C programming
+* Python
