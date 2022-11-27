@@ -6,7 +6,7 @@ title: Motion Planning
 [Back to Master projects](./master.md)
 # MPC Controller for Collision Avoidance
 ### Date of Project: 30 March 2020
-<img src="/assets/img/Workspace.jpg" alt="workspace" width="300"/>
+<img src="/assets/img/Workspace.jpg" alt="workspace" width="300"/>\
 Workspace of the autonomous vehicle (green), with a road (black), a pedestrian obstacle (yellow), a vehicle obstacle (red), a center line (dashed), and two reference lines (continuous). The first reference line avoids objects, the second one does not.
 
 ## Goal
