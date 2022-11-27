@@ -27,6 +27,8 @@ H. Li, Z. Wan, P. Gregoire, R. Dirks
 ## Results
 In both simulation scenarios, the Autonomous Vehicle avoids the obstacles succesfully. In the first scenario (avoiding reference), the Autonomous Vehicle is on average farther away from objects (10 ± 15 meter) than in the second scenario (right-lane reference) (22 ± 20 meter). 
 
+Below is a video showing the results. The video also shows a third scenario in which the pedestrian obstacle has a different trajectory than the first two scenarios.
+
 ### Video: Simulation of a car following a road while avoiding objects using Model Predictive Control
 <video width="640" height="480" controls>
   <source src="./assets/img/RMPC_Group19_MPC_Car_new.mp4" type="video/mp4">
