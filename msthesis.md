@@ -18,7 +18,7 @@ Rutger Dirks
 ## Thesis Committee
 H.J. Boekema (daily supervisor), Prof. Dr. D.M. Gavrila (supervisor), Dr. J.F.P. Kooij, Dr. E.A.I. Pool (previous supervisor)
 ## Degree granting institution
-[Delft University of Technology](https://www.topuniversities.com/universities/delft-university-technology)
+[Delft University of Technology](https://www.topuniversities.com/universities/delft-university-technology](https://www.tudelft.nl/en/about-tu-delft/facts-and-figures/tu-delft-in-international-rankings)
 ## Programme
 Mechanical Engineering | Vehicle Engineering | Cognitive Robotics
 
