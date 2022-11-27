@@ -27,7 +27,7 @@ S. Bonhof, S. Molenaar, J. van der Sluis, J. Wijkhuizen, R. Dirks
 * The active anti-rollbar is modeled by adding a torque to the model that counters the rollover movement. This torque is controlled by a PD-controller, making it an active component countering rollover.
 
 #### The schematic of the planar vehicle model in Simulink
-<img src="/assets/img/Planar_model_Simulink.PNG" alt="simmodel" width="300"/>
+<img src="/assets/img/Planar_model_Simulink.PNG" alt="simmodel" width="400"/>
 
 ## Results
 The results below show the following:
