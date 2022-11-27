@@ -10,4 +10,5 @@ title: Master
 [<img src="/assets/img/motion_prediction.png" alt="ogmpred" width="200"/>](./msthesis.md)
 
 ## [Making GA-Net more Efficient](./ganet.md)
+1 July 2020 \
 [<img src="/assets/img/ganet_res.png" alt="ganet" width="300"/>](./ganet.md)
