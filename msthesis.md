@@ -62,3 +62,4 @@ The Deep Learning Pipeline that is researched in the thesis.
 * Sinkhorn Loss
 * Structural Similarity Index Measure
 * Semantic Segmentation
+* Research
