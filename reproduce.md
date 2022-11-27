@@ -15,7 +15,7 @@ Reproduce the results from the [Deep Image Prior](https://arxiv.org/abs/1711.109
 ## Team
 J. de Vries, W.J. Tempelaar, R. Dirks
 
-## [Blog Post of the project](https://medium.com/@w.j.tempelaar/reproducibility-project-deep-image-prior-1f6e869a6dfe)
+# [Blog Post of the project](https://medium.com/@w.j.tempelaar/reproducibility-project-deep-image-prior-1f6e869a6dfe)
 
 ## Skills
 * Deep Learning
