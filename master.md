@@ -13,6 +13,6 @@ title: Master
 1 July 2020 \
 [<img src="/assets/img/ganet_res.png" alt="ganet" width="300"/>](./ganet.md)
 
-## [Reproducibility Project: Deep Image Prior]
+## [Reproducibility Project: Deep Image Prior](./reproduce.md)
 15 April 2020 \
 [<img src="/assets/img/reproduced.png" alt="reproduced" width="300"/>](./reproduce.md)
