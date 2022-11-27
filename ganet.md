@@ -16,3 +16,9 @@ H. Li, Z. Wan, R. Dirks
 R. Bruintjes (supervisor)
 
 ## [Blog Post of the project](https://medium.com/making-ganet-more-efficient/making-ga-net-more-efficient-868d0336b24a)
+
+## Skills
+Deep Learning
+Computer Vision
+3D Vision
+Research
