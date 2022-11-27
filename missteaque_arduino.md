@@ -9,7 +9,7 @@ title: Arduino Miss Teaque
 
 
 
-### Video of the Rover driving underneath a van
+### Video of the Arduino LED mystery LED configurations and sequences
 <video width="640" height="480" class="rotate270" controls>
   <source src="./assets/img/missteaque_vid.mp4" type="video/mp4">
   Your browser does not support the video tag.
