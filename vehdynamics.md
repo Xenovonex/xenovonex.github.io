@@ -27,8 +27,20 @@ S. Bonhof, S. Molenaar, J. van der Sluis, J. Wijkhuizen, R. Dirks
 * The active anti-rollbar is modeled by adding a torque to the model that counters the rollover movement. This torque is controlled by a PD-controller, making it an active component countering rollover.
 
 ## Results
+
+#### The Fish-hook manoeuvre expressed in the input steering angle of the simulated vehicle
 <img src="/assets/img/swa_LateralSpeed.png" alt="res_fishhook" width="300"/>
 
+#### The Roll angle for different masses and CoG heights without anti-roll bar
 <img src="/assets/img/Remaining_Roll_CoG_and_Masses.png" alt="res_mass_cog" width="300"/>
 
+#### The Roll angle for different anti-rollbar configurations
 <img src="/assets/img/Roll_vs_time_antirollbars.png" alt="res_anti" width="300"/>
+
+
+## Skills
+* Vehicle Dynamics
+* MATLAB
+* Simulink
+* Modeling
+* Research
