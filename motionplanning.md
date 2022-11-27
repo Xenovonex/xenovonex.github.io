@@ -4,11 +4,13 @@ title: Motion Planning
 ---
 
 [Back to Master projects](./master.md)
+# MPC Controller for Collision Avoidance
+### Date of Project: 30 March 2020
+<img src="/assets/img/Workspace.jpg" alt="workspace" width="400"/>
 
 
-
-
-
+## Team
+H. Li, Z. Wan, P. Gregoire, R. Dirks
 
 
 
