@@ -4,25 +4,24 @@ title: Master Thesis
 ---
 
 [Back to Master projects](./master.md)
-# MSc. Thesis: Sharpening the Future of Occupancy Grid Map Prediction Methods:
-An Investigation into Loss Functions and Semantic Segmentation Multi-Task learning for More Accurate OGM Predictions
-### Date of Thesis Defence: 13 June 2022
+## MSc. Thesis: Sharpening the Future of Occupancy Grid Map Prediction Methods: An Investigation into Loss Functions and Semantic Segmentation Multi-Task learning for More Accurate OGM Predictions
+#### Date of Thesis Defence: 13 June 2022
 <img src="/assets/img/pipeline_av.png" alt="pipeline_av" width="600"/>\
 A diagram example of the Autonomous Navigation Process. The sensors and actuators
 (black) measure and act on the environment (green), respectively. The cognitive processing steps
 (dark and light blue) interpret the sensor data and make vehicle control decisions based on those
 interpretations. This thesis focuses on the Motion Prediction cognitive processing step (light blue).
 
-## Author
+### Author
 Rutger Dirks
-## Thesis Committee
+### Thesis Committee
 H.J. Boekema (daily supervisor), Prof. Dr. D.M. Gavrila (supervisor), Dr. J.F.P. Kooij, Dr. E.A.I. Pool (previous supervisor)
-## Degree granting institution
+### Degree granting institution
 [Delft University of Technology](https://www.tudelft.nl/en/about-tu-delft/facts-and-figures/tu-delft-in-international-rankings)
-## Programme
+### Programme
 Mechanical Engineering | Vehicle Engineering | Cognitive Robotics
 
-# [THESIS](http://resolver.tudelft.nl/uuid:efb50fdd-c246-4e55-8193-5cf78072ec29)
+# [LINK TO THESIS](http://resolver.tudelft.nl/uuid:efb50fdd-c246-4e55-8193-5cf78072ec29)
 
 ## Abstract
 "For an Autonomous Vehicle (AV) to traverse safely in traffic, It is vital it can anticipate the behavior of
@@ -49,10 +48,10 @@ prediction quality. The quantitative results show that multi-task learning does 
 predictions. However, some qualitative results show that multi-task learning reduces blurriness and
 object disappearances." 
 
+(R.F. Dirks, 2022, _"Sharpening the Future of Occupancy Grid Map Prediction Methods: An Investigation into Loss Functions and Semantic Segmentation Multi-Task learning for More Accurate OGM Predictions"_, TU Delft Mechanical, Maritime and Materials Engineering)
+
 <img src="/assets/img/dl_pipeline.png" alt="pipeline_dl" width="600"/>\
 The Deep Learning Pipeline that is researched in the thesis.
-
-(R.F. Dirks, 2022, _"Sharpening the Future of Occupancy Grid Map Prediction Methods: An Investigation into Loss Functions and Semantic Segmentation Multi-Task learning for More Accurate OGM Predictions"_, TU Delft Mechanical, Maritime and Materials Engineering)
 
 ## Subject
 * Motion Prediction
