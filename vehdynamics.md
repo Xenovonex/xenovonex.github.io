@@ -26,6 +26,9 @@ S. Bonhof, S. Molenaar, J. van der Sluis, J. Wijkhuizen, R. Dirks
 * The passive anti-rollbar is modeled by adding a spring with a certain stiffness in between the two front wheel suspensions. The higher the roll angle, the higher the spring torque in the opposite direction of the roll angle, reducing the roll movement.
 * The active anti-rollbar is modeled by adding a torque to the model that counters the rollover movement. This torque is controlled by a PD-controller, making it an active component countering rollover.
 
+#### The schematic of the planar vehicle model in Simulink
+<img src="/assets/img/Anti_rollbar_simulink.PNG" alt="vehdyn" width="300"/>
+
 ## Results
 The results below show the following:
 * The higher the mass, the higher the roll
