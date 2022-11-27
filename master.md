@@ -16,3 +16,7 @@ title: Master
 ## [Reproducibility Project: Deep Image Prior](./reproduce.md)
 15 April 2020 \
 [<img src="/assets/img/reproduced.png" alt="reproduced" width="300"/>](./reproduce.md)
+
+## [MPC Controller for Collision Avoidance](./motionplanning.md)
+30 March 2020 \
+[<img src="/assets/img/Workspace.jpg" alt="workspace" width="300"/>](./motionplanning.md)
