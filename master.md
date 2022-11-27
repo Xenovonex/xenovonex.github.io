@@ -7,7 +7,7 @@ title: Master
 
 ## [MSc. Thesis: Sharpening the Future of Occupancy Grid Map Prediction Methods](./msthesis.md)
 13 June 2022 \
-[<img src="/assets/img/motion_prediction.png" alt="ogmpred" width="200"/>](./msthesis.md)
+[<img src="/assets/img/motion_prediction.png" alt="ogmpred" width="300"/>](./msthesis.md)
 
 ## [Making GA-Net more Efficient](./ganet.md)
 1 July 2020 \
