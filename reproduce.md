@@ -7,6 +7,7 @@ title: Reproducibility Project Deep Learning
 # Reproducibility Project: Deep Image Prior
 ### Date of Project: 15 April 2020
 <img src="/assets/img/reproduced.png" alt="reproduced" width="400"/>
+Reproduced result of image reconstruction.
 
 ## Goal
 Reproduce the results from the [Deep Image Prior](https://arxiv.org/abs/1711.10925) paper.
