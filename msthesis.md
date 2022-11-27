@@ -48,6 +48,10 @@ task on the predicted OGMs, it is expected to learn object representations which
 prediction quality. The quantitative results show that multi-task learning does not improve the OGM
 predictions. However, some qualitative results show that multi-task learning reduces blurriness and
 object disappearances." 
+
+<img src="/assets/img/dl_pipeline.png" alt="pipeline_dl" width="600"/>\
+The Deep Learning Pipeline that is researched in the thesis.
+
 (R.F. Dirks, 2022, _"Sharpening the Future of Occupancy Grid Map Prediction Methods: An Investigation into Loss Functions and Semantic Segmentation Multi-Task learning for More Accurate OGM Predictions"_, TU Delft Mechanical, Maritime and Materials Engineering)
 
 ## Subject
