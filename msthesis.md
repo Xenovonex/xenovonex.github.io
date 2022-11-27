@@ -4,7 +4,8 @@ title: Master Thesis
 ---
 
 [Back to Master projects](./master.md)
-## MSc. Thesis: Sharpening the Future of Occupancy Grid Map Prediction Methods: An Investigation into Loss Functions and Semantic Segmentation Multi-Task learning for More Accurate OGM Predictions
+## MSc. Thesis: Sharpening the Future of Occupancy Grid Map Prediction Methods: 
+### An Investigation into Loss Functions and Semantic Segmentation Multi-Task learning for More Accurate OGM Predictions
 #### Date of Thesis Defence: 13 June 2022
 <img src="/assets/img/pipeline_av.png" alt="pipeline_av" width="600"/>\
 A diagram example of the Autonomous Navigation Process. The sensors and actuators
