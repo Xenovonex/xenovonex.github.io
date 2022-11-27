@@ -29,6 +29,6 @@ S. Bonhof, S. Molenaar, J. van der Sluis, J. Wijkhuizen, R. Dirks
 ## Results
 <img src="/assets/img/swa_LateralSpeed.png" alt="res_fishhook" width="300"/>
 
-<img src="/assets/img/Roll_CoG_and_Masses.png" alt="res_mass_cog" width="300"/>
+<img src="/assets/img/Remaining_Roll_CoG_and_Masses.png" alt="res_mass_cog" width="300"/>
 
 <img src="/assets/img/Roll_vs_time_antirollbars.png" alt="res_anti" width="300"/>
