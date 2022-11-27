@@ -15,4 +15,4 @@ title: Master
 
 ## [Reproducibility Project: Deep Image Prior]
 15 April 2020 \
-[<img src="/assets/img/reproduced.png" alt="reproduced" width="400"/>](./reproduce.md)
+[<img src="/assets/img/reproduced.png" alt="reproduced" width="300"/>](./reproduce.md)
