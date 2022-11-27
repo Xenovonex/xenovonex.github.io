@@ -15,6 +15,6 @@ interpretations. This thesis focuses on the Motion Prediction cognitive processi
 ### Author
 Rutger Dirks
 ### Thesis Committee
-H.J. Boekema (daily supervisor), Prof. Dr. D. Gavrila (supervisor), Dr. J.F.P. Kooij, Dr. E.A.I. Pool (previous supervisor)
+H.J. Boekema (daily supervisor), Prof. Dr. D.M. Gavrila (supervisor), Dr. J.F.P. Kooij, Dr. E.A.I. Pool (previous supervisor)
 
-[THESIS](https://repository.tudelft.nl/islandora/object/uuid%3Aefb50fdd-c246-4e55-8193-5cf78072ec29)
+[#THESIS](https://repository.tudelft.nl/islandora/object/uuid%3Aefb50fdd-c246-4e55-8193-5cf78072ec29)
