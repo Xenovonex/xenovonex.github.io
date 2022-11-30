@@ -6,7 +6,7 @@ title: Reproducibility Project Deep Learning
 [Back to Master projects](./master.md)
 # Reproducibility Project: Deep Image Prior
 ### Date of Project: 15 April 2020
-<img src="/assets/img/reproduced.png" alt="reproduced" width="400"/>
+<img src="/assets/img/reproduced.png" alt="reproduced" width="400"/>\
 Reproduced result of image reconstruction.
 
 ## Goal
